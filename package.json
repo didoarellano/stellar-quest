@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "author": "Dido Arellano",
   "dependencies": {
+    "node-fetch": "2.6.1",
     "stellar-sdk": "6.2.0"
   }
 }
