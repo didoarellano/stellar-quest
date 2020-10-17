@@ -1,0 +1,8 @@
+{
+  "name": "stellar-quest",
+  "version": "1.0.0",
+  "author": "Dido Arellano",
+  "dependencies": {
+    "stellar-sdk": "6.2.0"
+  }
+}
